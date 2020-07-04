@@ -9,6 +9,7 @@ public class HelloGit {
         System.out.println("克隆");
         System.out.println("test ssh");
         System.out.println("test ssh");
+        System.out.println("test ssh");
     }
 
 }
